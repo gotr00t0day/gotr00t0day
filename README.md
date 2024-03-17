@@ -1,6 +1,4 @@
-<div id="header" align="center">
-  <img src="https://i.ibb.co/LRcYvK3/gotr00t-wallpaper.png" width="200"/>
-</div>
+<img src="https://i.ibb.co/LRcYvK3/gotr00t-wallpaper.png" width="500"/>
 
 ---
 
