@@ -21,6 +21,8 @@ I'm a Hacker and Programmer. I enjoy developing tools for ethical hacking.
 
 ### :fire: My Stats :
 
+![gotr00t0da's GitHub stats](https://github-readme-stats.vercel.app/api?username=gotr00t0day&show_icons=true&theme=radical)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=gotr00t0day)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gotr00t0day)](https://github.com/anuraghazra/github-readme-stats)
