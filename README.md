@@ -1,12 +1,6 @@
-<img src="https://i.ibb.co/LRcYvK3/gotr00t-wallpaper.png" width="500"/>
-
----
-
 ### 👨‍💻: About Me :
 
 I'm a Hacker and Programmer. I enjoy developing tools for ethical hacking.
-
-- :mailbox:How to reach me: Instagram: @gotr00t0day, Twitter: @gotr00t0day
 
 ---
 
