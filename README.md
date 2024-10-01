@@ -28,4 +28,4 @@ I'm a Hacker and Programmer. I enjoy developing tools for ethical hacking.
 
 ### ☕ BUY ME SOME COFFEE:
 
-[(https://buymeacoffee.com/gotr00t0day)]
+https://buymeacoffee.com/gotr00t0day
