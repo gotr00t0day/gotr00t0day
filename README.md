@@ -45,12 +45,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gotr00t0day)
 [![HackerOne](https://img.shields.io/badge/-HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/c0d3Ninja)
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Coming soon...]
-<!-- BLOG-POST-LIST:END -->
-
 ---
 
 <div align="center">
