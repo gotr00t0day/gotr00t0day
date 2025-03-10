@@ -23,20 +23,21 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gotr00t0day&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=YOUR_GITHUB_USERNAME&count_private=true&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" />
+</p>
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night" />
+</p>
 
 ## 🔥 Streak Stats
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=gotr00t0day&theme=radical" alt="GitHub Streak" />
-</div>
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=gotr00t0day&theme=radical" alt="Contribution Graph" />
 </div>
 
 ## 🏆 GitHub Trophies
