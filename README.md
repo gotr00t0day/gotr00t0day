@@ -24,13 +24,13 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gotr00t0day&show_icons=true&theme=radical" alt="GitHub Stats" />
 </div>
 
 ## 🔥 Streak Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gotr00t0day&theme=radical" alt="GitHub Streak" />
 </div>
 
 ## 📈 Contribution Graph
