@@ -56,3 +56,19 @@
   **📫 Reach me at:** your.email@example.com
 
 </div>
+
+## Secure Your Connection with NordVPN! 🛡️
+
+I've partnered with NordVPN to help you stay secure and private online. Whether you're coding, browsing, or accessing sensitive data, encrypting your connection is crucial.
+
+NordVPN helps you:
+*   🔒 Encrypt your internet traffic
+*   🌍 Access content worldwide
+*   🚫 Block malware and trackers
+*   💨 Enjoy fast connection speeds
+
+**Support my work and enhance your online security by checking out NordVPN through my affiliate link:**
+
+➡️ **[Get NordVPN Here](https://go.nordvpn.net/SH9dv)** ⬅️
+
+*(Note: This is an affiliate link. If you sign up through this link, I may receive a commission at no extra cost to you. Thanks for your support!)*
