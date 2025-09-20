@@ -1,7 +1,7 @@
 # Hi there, I'm [c0d3Ninja] 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Security+Researcher;Bug+Hunter;Python+Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Security+Researcher;Bug+Hunter;Python+Developer;Cplusplus+Developer;Open+Source+Contributor" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
