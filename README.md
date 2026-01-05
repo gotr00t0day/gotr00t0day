@@ -26,5 +26,5 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/@gotr00t0day)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gotr00t0day)
 [![HackerOne](https://img.shields.io/badge/-HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/c0d3Ninja)
-[![HackerOne](https://img.shields.io/badge/-HackerOne-494649?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gotr00t0day)
+[![HackerOne](https://img.shields.io/badge/-Instagram-494649?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/gotr00t0day)
 
