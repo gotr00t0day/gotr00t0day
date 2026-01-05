@@ -27,32 +27,3 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/gotr00t0day)
 [![HackerOne](https://img.shields.io/badge/-HackerOne-494649?style=flat-square&logo=hackerone&logoColor=white)](https://hackerone.com/c0d3Ninja)
 
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gotr00t0day&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
-
-<div align="center">
-  
-  **📫 Reach me at:** your.email@example.com
-
-</div>
-
-<br>
-
-## Secure Your Connection with NordVPN! 🛡️
-
-I've partnered with NordVPN to help you stay secure and private online. Whether you're coding, browsing, or accessing sensitive data, encrypting your connection is crucial.
-
-NordVPN helps you:
-*   🔒 Encrypt your internet traffic
-*   🌍 Access content worldwide
-*   🚫 Block malware and trackers
-*   💨 Enjoy fast connection speeds
-
-**Support my work and enhance your online security by checking out NordVPN through my affiliate link:**
-
-➡️ **[Get NordVPN Here](https://go.nordvpn.net/SH9dv)** ⬅️
-
-*(Note: This is an affiliate link. If you sign up through this link, I may receive a commission at no extra cost to you. Thanks for your support!)*
